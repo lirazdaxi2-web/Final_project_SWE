@@ -1,0 +1,5 @@
+# LanGame - project #5
+# Everything the game needs is in Python's standard library
+# (socket, threading, json, sqlite3, tkinter, dataclasses, logging).
+# Only the test runner is an extra package.
+pytest==8.3.3

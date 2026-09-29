@@ -1,0 +1,26 @@
+text,option_a,option_b,option_c,option_d,correct_index,category,difficulty
+What does TCP stand for?,Transmission Control Protocol,Transfer Connection Protocol,Total Control Packet,Transmission Check Protocol,0,networks,1
+Which port does HTTP use by default?,21,25,80,443,2,networks,1
+What is the loopback IP address?,192.168.0.1,10.0.0.1,127.0.0.1,255.255.255.255,2,networks,1
+Which protocol guarantees ordered delivery?,UDP,TCP,ICMP,ARP,1,networks,2
+What does DNS translate?,IP to MAC,Names to IP addresses,Ports to services,Packets to frames,1,networks,1
+How many bits are in an IPv4 address?,16,32,64,128,1,networks,1
+Which layer of the OSI model does TCP belong to?,Network,Data link,Transport,Session,2,networks,2
+What does a switch use to forward frames?,IP address,MAC address,Port number,Hostname,1,networks,2
+Which command shows your IP address on Windows?,ping,ipconfig,tracert,netstat,1,networks,1
+What is the maximum value of a port number?,255,1023,65535,4294967295,2,networks,2
+What does JSON stand for?,Java Simple Object Notation,JavaScript Object Notation,Joined Script Object Name,Java Serialized Object Network,1,programming,1
+Which Python keyword creates a function?,func,function,def,lambda,2,programming,1
+What does a threading.Lock prevent?,Deadlock,Race condition,Timeout,Packet loss,1,programming,2
+Which data structure is FIFO?,Stack,Queue,Tree,Set,1,programming,1
+What is the output of len("LanGame")?,6,7,8,9,1,programming,1
+Which HTTP method is used to create a resource?,GET,POST,DELETE,HEAD,1,programming,2
+What does SQL stand for?,Structured Query Language,Simple Question Language,Standard Query List,Sequential Query Logic,0,databases,1
+Which SQL clause filters rows?,ORDER BY,GROUP BY,WHERE,HAVING,2,databases,1
+What does a PRIMARY KEY guarantee?,Fast inserts,Unique non-null values,Sorted rows,Encrypted rows,1,databases,1
+What does ON DELETE CASCADE do?,Deletes the table,Deletes child rows with the parent,Blocks the delete,Logs the delete,1,databases,2
+What is the capital of Israel?,Haifa,Tel Aviv,Jerusalem,Beersheba,2,general,1
+How many players does a football team have on the field?,9,10,11,12,2,general,1
+Which planet is closest to the Sun?,Venus,Mercury,Earth,Mars,1,general,1
+What is 15 x 15?,200,215,225,250,2,general,1
+Who painted the Mona Lisa?,Michelangelo,Leonardo da Vinci,Raphael,Donatello,1,general,1
